@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/깃허브아이디/my-app.git
+    repoURL: https://github.com/thinking-always/k8s-manifests.git
     targetRevision: main
     path: k8s
   destination:
