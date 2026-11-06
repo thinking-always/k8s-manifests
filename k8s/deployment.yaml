@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: web
-        image: nginx:alpine
+        image: ghcr.io/thinking-always/k8s-manifests:f7ea986d0ebeadb4912a68ed6c4ccbae9f55a942
         ports:
         - containerPort: 80
