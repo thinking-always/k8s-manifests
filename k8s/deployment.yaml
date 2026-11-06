@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: web
-        image: ghcr.io/thinking-always/k8s-manifests:97e6add0c3893b14983b4d79745855bf55c3fb77
+        image: ghcr.io/thinking-always/k8s-manifests:a8ff8cf73f95963182744ed801407e557fce37e4
         ports:
         - containerPort: 80
